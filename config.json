@@ -1,0 +1,8 @@
+{
+    "name": "apiutils-service",
+    "version": "1.0.259",
+    "private": false,
+    "environment": "production",
+    "build_id": 400,
+    "allow_public_access": true
+}
